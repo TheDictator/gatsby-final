@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="816ba961-0a1d-4cc3-b8fa-5d5ee6536771" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/.all-contributorsrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/.github/ISSUE_TEMPLATE/Bug_Report.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/.github/ISSUE_TEMPLATE/Feature_Request.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/.github/ISSUE_TEMPLATE/Question.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/.github/stale.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/.prettierignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/.prettierrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/gatsby-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/gatsby-node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/src/images/shopping_bag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/src/images/shopping_bag.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-starter-storefront-shopify/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +30,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609324663822</updated>
       <workItem from="1609324664930" duration="618000" />
-      <workItem from="1609325851104" duration="127000" />
+      <workItem from="1609325851104" duration="1585000" />
     </task>
     <servers />
   </component>

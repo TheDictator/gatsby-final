@@ -18,13 +18,13 @@ module.exports = {
           durationFadeIn: 500,
         },
         manifest: {
-          name: 'Gatsby Storefront Demo Store',
-          short_name: 'Gatsby Storefront',
+          name: 'Final',
+          short_name: 'Final',
           start_url: '/',
           background_color: '#fff',
           theme_color: '#333',
           display: 'standalone',
-          icon: 'src/images/shopping_bag.svg',
+          icon: 'src/images/logo.svg',
           icon_options: {
             purpose: 'any maskable',
           },
@@ -34,14 +34,14 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    siteUrl: 'https://demo.gatsbystorefront.com',
+    siteUrl: 'https://finalco.netlify.app',
     gatsbyStorefrontConfig: {
-      storeName: 'Gatsby Storefront',
-      storeDescription: 'Demo store description',
-      email: 'info@gatsbystorefront.com',
-      company: 'Gatsby Storefront Inc.',
-      location: 'New York, NY',
-      address: '1 Centre St.',
+      storeName: 'Final',
+      storeDescription: 'Final description',
+      email: 'hello@final.co',
+      company: 'The Final Co. LLC',
+      location: 'Seattle, WA',
+      address: '3518 Fremont Avenue N #353',
       phone: '+1 (800) 123-1234',
       workingDays: 'Mon - Fri',
       workingHours: '8AM - 6PM',
@@ -65,7 +65,7 @@ module.exports = {
         'Line',
         'Viber',
       ],
-      googleAnalyticsId: 'UA-141525658-5',
+      googleAnalyticsId: 'UA-117529759-2',
       //
       // carousel, collection, product
       //
