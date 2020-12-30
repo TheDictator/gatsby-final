@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="816ba961-0a1d-4cc3-b8fa-5d5ee6536771" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shopping_bag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shopping_bag.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609324663822</updated>
       <workItem from="1609324664930" duration="618000" />
-      <workItem from="1609325851104" duration="4950000" />
+      <workItem from="1609325851104" duration="5249000" />
     </task>
     <servers />
   </component>

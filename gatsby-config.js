@@ -24,7 +24,7 @@ module.exports = {
           background_color: '#fff',
           theme_color: '#333',
           display: 'standalone',
-          icon: '/images/logo.svg',
+          icon: 'images/logo.svg',
           icon_options: {
             purpose: 'any maskable',
           },
@@ -39,7 +39,7 @@ module.exports = {
       storeName: 'Final',
       storeDescription: 'Final description',
       email: 'hello@final.co',
-      logoUrl: '/images/logo.svg',
+      logoUrl: 'images/logo.svg',
       company: 'The Final Co. LLC',
       location: 'Seattle, WA',
       address: '3518 Fremont Avenue N #353',
