@@ -32,6 +32,20 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: `gatsby-source-sanity`,
+      options: {
+        projectId: `etj087mp`,
+        dataset: `production`,
+        // a token with read permissions is required
+        // if you have a private dataset
+        token: 'skLtpyhBcFLjUmDIOCTCDPr1sMbYHZ7F3FjUd8LqE0xTJ5d12RbscxYyvqwgDcnhm8jy8a8DDvOyXRCSLSpV5ANmgvD5uidJM0zW09gj8gU9bBUmQfeiP0bYTUc2dJvE5PlwSGsau7D7RP5ZgwQybnZki4rgqZVBDPaOv3j6eGKY4CUSfhLw',
+
+        // If the Sanity GraphQL API was deployed using `--tag <name>`,
+        // use `graphqlTag` to specify the tag name. Defaults to `default`.
+        graphqlTag: 'default',
+      },
+    },
   ],
   siteMetadata: {
     siteUrl: 'https://finalco.netlify.app',

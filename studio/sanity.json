@@ -1,0 +1,29 @@
+{
+  "root": true,
+  "api": {
+    "projectId": "etj087mp",
+    "dataset": "production"
+  },
+  "project": {
+    "name": "Final-Sane"
+  },
+  "plugins": [
+    "@sanity/base",
+    "@sanity/components",
+    "@sanity/default-layout",
+    "@sanity/default-login",
+    "@sanity/desk-tool",
+    "@sane-shopify/sanity-plugin",
+    "@sanity/color-input",
+    "media",
+    "tabs",
+    "seo-tools",
+    "@sanity/vision"
+  ],
+  "parts": [
+    {
+      "name": "part:@sanity/base/schema",
+      "path": "./schemas/schemas.ts"
+    }
+  ]
+}
