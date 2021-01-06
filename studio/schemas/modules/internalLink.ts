@@ -15,7 +15,7 @@ export default {
       type: 'reference',
       to: [
         { type: 'page' },
-        { type: 'product' }
+        { type: 'shopifyProduct' }
       ]
     }
   ]

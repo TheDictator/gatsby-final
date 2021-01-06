@@ -68,16 +68,13 @@ export default createSchema({
     ...saneShopifyTypes,
     // The following are document types which will appear
     // in the studio.
-    siteSettings,
-    siteGlobal,
     page,
     post,
-    doc,
     redirect,
     menus,
-    collection,
-    product,
-    variant,
+    siteSettings,
+    siteGlobal,
+    //variant,
     subscription, // This can be disabled/hidden if not using recharge
     // Modules
     externalLink,
@@ -94,15 +91,15 @@ export default createSchema({
     blockContent,
     blockText,
     // Product Specific Modules
-    productModule,
-    shopifyProductModule,
-    shopifyVariantModule,
-    variantModule,
-    defaultVariant,
+    // productModule,
+    // shopifyProductModule,
+    // shopifyVariantModule,
+    // variantModule,
+    // defaultVariant,
     // Grapqhl Tab sthings
     globalContent,
-    pageContent,
-    productContent,
-    variantContent
+    pageContent
+    // productContent,
+    // variantContent
   ])
 })

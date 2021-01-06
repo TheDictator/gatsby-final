@@ -1,6 +1,6 @@
 export default {
-  title: 'Image Module',
-  name: 'imageModule',
+  title: 'Hero',
+  name: 'heroModule',
   type: 'object',
   hidden: true,
   fields: [

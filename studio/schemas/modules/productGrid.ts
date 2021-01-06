@@ -18,7 +18,7 @@ export default {
       name: 'products',
       title: 'Products',
       type: 'array',
-      of: [{ type: 'reference', to: { type: 'product' } }],
+      of: [{ type: 'reference', to: { type: 'shopifyProduct' } }],
       validation: Rule => Rule.min(1).max(40),
     }
   ]

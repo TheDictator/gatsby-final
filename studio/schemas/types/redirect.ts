@@ -2,7 +2,7 @@ import React from 'react'
 
 export default {
 	name: 'redirect',
-	title: 'Redirect',
+	title: 'Redirects',
 	type: 'document',
 	fields: [
 		{
