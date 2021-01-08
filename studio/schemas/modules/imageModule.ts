@@ -1,6 +1,6 @@
 export default {
-  title: 'Hero',
-  name: 'heroModule',
+  title: 'Image Module',
+  name: 'imageModule',
   type: 'object',
   hidden: true,
   fields: [
@@ -9,14 +9,14 @@ export default {
       title: 'Image',
       type: 'image',
       options: {
-        hotspot: true
+        hotspot: true,
       },
-      validation: Rule => Rule.required()
+      validation: (Rule) => Rule.required(),
     },
     {
       name: 'caption',
       title: 'Image Caption',
-      type: 'text'
+      type: 'text',
     },
     {
       name: 'layout',
@@ -24,12 +24,12 @@ export default {
       type: 'string',
       options: {
         list: [
-          {title: 'Full', value: 'full'},
-          {title: 'large', value: 'large'},
-          {title: 'medium', value: 'medium'}
+          { title: 'Full', value: 'full' },
+          { title: 'large', value: 'large' },
+          { title: 'medium', value: 'medium' },
         ],
-        layout: 'dropdown'
-      }
-    }
-  ]
-}
+        layout: 'dropdown',
+      },
+    },
+  ],
+};
