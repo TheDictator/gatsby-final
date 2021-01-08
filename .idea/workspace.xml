@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="816ba961-0a1d-4cc3-b8fa-5d5ee6536771" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/@gatsbystorefront/gatsby-theme-storefront-shopify/components/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/@gatsbystorefront/gatsby-theme-storefront-shopify/components/Layout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/@gatsbystorefront/gatsby-theme-storefront-shopify/components/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/@gatsbystorefront/gatsby-theme-storefront-shopify/components/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/@gatsbystorefront/gatsby-theme-storefront-shopify/components/strings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/@gatsbystorefront/gatsby-theme-storefront-shopify/gatsby-plugin-theme-ui/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gatsby-plugin-theme-ui/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/shopping_bag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/shopping_bag.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio/schemas/modules/imageModule.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemas/modules/imageModule.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio/schemas/modules/internalLink.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemas/modules/internalLink.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio/schemas/modules/productGrid.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemas/modules/productGrid.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio/schemas/schemas.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemas/schemas.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studio/schemas/types/redirect.ts" beforeDir="false" afterPath="$PROJECT_DIR$/studio/schemas/types/redirect.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@gatsbystorefront/gatsby-theme-storefront-shopify/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/@gatsbystorefront/gatsby-theme-storefront-shopify/components/Navbar.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,6 +68,7 @@
       <workItem from="1609820690318" duration="3723000" />
       <workItem from="1609912885478" duration="3065000" />
       <workItem from="1609922786100" duration="3252000" />
+      <workItem from="1610090644144" duration="3335000" />
     </task>
     <servers />
   </component>

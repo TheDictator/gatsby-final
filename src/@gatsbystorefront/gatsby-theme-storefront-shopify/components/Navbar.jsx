@@ -50,11 +50,7 @@ const Navbar = (props) => {
         siteMetadata {
           gatsbyStorefrontConfig {
             storeName
-            logo {
-              url
-              width
-              height
-            }
+            logoUrl 
             menu {
               handle
               id
